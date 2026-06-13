@@ -1,5 +1,5 @@
 ## Olá, bem-vindo ao meu perfil!
-
+<back-end developer />
 Me chamo Carla, sou graduanda em Ciência da Computação pela Universidade Estadual da Paraiba, com foco em desenvolvimento back-end. Atualmente tenho maior experiência com desenvolvimento em Java, aplicando conceitos de Programação Orientada a Objetos (POO), banco de dados, estrutura de dados e padrões de projeto.
 
 <hr size="5">
@@ -26,14 +26,6 @@ Me chamo Carla, sou graduanda em Ciência da Computação pela Universidade Esta
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### </tools>
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
 
 
