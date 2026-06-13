@@ -1,7 +1,5 @@
 ## Olá, bem-vindo ao meu perfil!
 
-<h3 align="left">&lt;back-end developer /&gt;</h3>
-
 Me chamo Carla, sou graduanda em Ciência da Computação pela Universidade Estadual da Paraiba, com foco em desenvolvimento back-end. Atualmente tenho maior experiência com desenvolvimento em Java, aplicando conceitos de Programação Orientada a Objetos (POO), banco de dados, estrutura de dados e padrões de projeto.
 
 ## 💻 Linguagens e Tecnologias
